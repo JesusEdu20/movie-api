@@ -1,0 +1,16 @@
+{
+  "name": "api-rest-js",
+  "version": "1.0.0",
+  "description": "Curso de consumo de una API REST ",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "Curso",
+    "Js"
+  ],
+  "author": " <jesuseduardocast18@gmail.com>",
+  "license": "MIT"
+}
